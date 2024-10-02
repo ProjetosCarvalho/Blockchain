@@ -8,10 +8,7 @@ Nesse repositório encontra-se a 1° parte da atividade, que é um fichamento/re
 https://doi.org/10.1590/1982-7849rac2020190171
 
 ## Integrantes e Linkdin
-- Davi dos Santos:
-- Gabriel Paulino:
 - Giovanna Carvalho:
-- Luciano Leme:
 - Pietro Enrico:
 
 ## Aplicação
