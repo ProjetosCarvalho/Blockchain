@@ -19,5 +19,3 @@ O fichamento elaborado sobre o artigo "Uso de Blockchain na Educação: Estado d
 ## Aplicação
 Breve resumo aqui
 
-## Código da aplicação
-Colar aqui
