@@ -5,7 +5,8 @@ Nesse repositório encontra-se a 1° parte da atividade, que é um fichamento/re
 ** Linkdin do professor: 
 
 ## Artigo
-https://doi.org/10.1590/1982-7849rac2020190171
+Breve resumo sobre "Uso de Blockchain na Educação: Estado da arte e desafios em aberto"
+Acesso: https://www.nucleodoconhecimento.com.br/tecnologia/uso-de-blockchain
 
 ## Integrantes e Linkdin
 - Giovanna Carvalho:
