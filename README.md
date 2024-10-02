@@ -9,10 +9,7 @@ Artigo científico com tema “Uso de Blockchain na Educação: Estado da arte e
 Acesso: https://www.nucleodoconhecimento.com.br/tecnologia/uso-de-blockchain
 
 ## Integrantes e Linkdin
-- Davi dos Santos:
-- Gabriel Paulino:
 - Giovanna Carvalho: www.linkedin.com/in/giovanna-carvalho-silva
-- Luciano Leme:
 - Pietro Enrico:
 
 ## Fichamento
