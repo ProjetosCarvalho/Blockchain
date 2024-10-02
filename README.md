@@ -10,7 +10,7 @@ Acesso: https://www.nucleodoconhecimento.com.br/tecnologia/uso-de-blockchain
 
 ## Integrantes e Linkdin
 - Giovanna Carvalho: www.linkedin.com/in/giovanna-carvalho-silva
-- Pietro Enrico:
+- Pietro Enrico: https://www.linkedin.com/in/pietro-guerra-bb6538257/
 
 ## Fichamento
 O fichamento elaborado sobre o artigo "Uso de Blockchain na Educação: Estado da arte e desafios em aberto" apresenta uma análise da aplicação da tecnologia blockchain no contexto educacional, aborda os conceitos fundamentais do blockchain, suas principais aplicações na educação, os benefícios e desafios associados à sua implementação, a metodologia utilizada na pesquisa e a conclusão, que ressalta a opinião do grupo.
