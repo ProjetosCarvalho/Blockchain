@@ -4,6 +4,9 @@ Nesse repositório encontra-se a 1° parte da atividade, que é um fichamento/re
 
 ** Linkdin do professor: https://www.linkedin.com/in/bzsantos/
 
+## Vídeo explicativo
+https://drive.google.com/drive/folders/1aTPhFBRT96RgR3Bq2HFW5TMPJx9Q1v6q?usp=sharing
+
 ## Artigo
 Artigo científico com tema “Uso de Blockchain na Educação: Estado da arte e desafios em aberto”, de Anderson Mero de Morais, 2020, disponível na Revista Científica Multidisciplinar: Núcleo do Conhecimento.
 Acesso: https://www.nucleodoconhecimento.com.br/tecnologia/uso-de-blockchain
